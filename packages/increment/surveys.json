@@ -1,0 +1,10 @@
+{
+    "surveys": {
+        "lint": [
+            "flutter analyze"
+        ],
+        "format":[
+            "flutter format lib"
+        ]
+    }
+}

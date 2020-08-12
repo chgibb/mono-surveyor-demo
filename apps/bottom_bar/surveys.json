@@ -1,0 +1,8 @@
+{
+    "surveys": {
+        "lint": [],
+        "format":[
+            "flutter format lib"
+        ]
+    }
+}
